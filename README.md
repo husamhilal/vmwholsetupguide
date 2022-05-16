@@ -2,6 +2,10 @@
 
 To access free VMware offered hands-on labs, you'll need to create a free account. To do so, please follow these simple steps.
 
+After creating the account, you can access any hands-on labs provided through that website. For example: [Azure VMware Solution - Lightning Lab](https://pathfinder.vmware.com/v3/activity/try_azure_vmware_solution_hol) or [VMware Cloud on AWS - Fundamentals](https://pathfinder.vmware.com/v3/activity/vmware_cloud_on_aws_getting_started).
+
+
+
 ## At high-level:
 1) Go to https://pathfinder.vmware.com/, select **Create Account**
 2) Provide valid information, especially **e-mail address**
